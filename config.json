@@ -1,4 +1,4 @@
 {
-    "outcome_extractor_path": "Mathking/BioLinkBERT-b-tc-po-so",
+    "outcome_extractor_path": "Mathking/PubMedBERT-b-u-a-tc-po-so",
     "outcome_sim_path": "Mathking/all-mpnet-base-v2-st-out-sim"
 }

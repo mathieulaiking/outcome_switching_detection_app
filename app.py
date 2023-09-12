@@ -46,7 +46,7 @@ with blocks:
             with gr.TabItem("Article Useful Sections"):
                 filtered_article = gr.Markdown()
             with gr.TabItem("Article Detected Outcomes"):
-                ner_output = gr.HighlightedText(show_legend=True,combine_adjacent=True, show_label=False)
+                ner_output = gr.HighlightedText(show_legend=True, label="", show_label=False)
             with gr.TabItem("Registry Outcomes"):
                 ctgov_output = gr.JSON()
             with gr.TabItem("Similarity"):
