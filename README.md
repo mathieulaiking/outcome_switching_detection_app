@@ -5,7 +5,7 @@ colorFrom: blue
 colorTo: gray
 sdk: gradio
 sdk_version: 3.43.2
-app_file: app-blocks.py
+app_file: app.py
 pinned: false
 python_version: 3.11.5
 models: ['Mathking/scibert_scivocab_uncased-ner-prim_out','Mathking/all-mpnet-base-v2_outcome_sim']
