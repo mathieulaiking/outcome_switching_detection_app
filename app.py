@@ -38,7 +38,7 @@ with blocks:
                 with gr.Row():
                     pmid_input = gr.Textbox(value=pmcid_start_value, label="PMID, PMCID or DOI (PMCID must be preceded by 'PMC' prefix)")
                 with gr.Row():
-                    clean_button = gr.ClearButton(value="Clean")    
+                    clean_button = gr.ClearButton()    
                     detect_button = gr.Button(value="Detect", variant="primary")
         gr.Examples(examples = PMID_EXAMPLES, inputs=pmid_input)
         gr.Markdown("## Results  \n")
@@ -53,7 +53,7 @@ with blocks:
                 similarity_output = gr.Plot(show_label=False)
     # OUTPUTS AND BUTTONS
     outputs = [filtered_article, ner_output, ctgov_output, similarity_output]
-    clean_button.click(fn=clean, inputs=None, outputs=outputs)
+    clean_button.click(fn=clean, inputs=pmid_input, outputs=outputs)
     detect_button.click(fn=detect_outswitch_pmid, inputs=pmid_input, outputs=outputs)
 
 blocks.launch()
