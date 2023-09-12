@@ -1,0 +1,5 @@
+{
+    "outcome_extractor_path": "/people/laiking/workspace/repos/gradio-outcome-switching-detection-app-master/models/PubMedBERT-base-uncased-abstract-finetuned-outcomes-ner",
+    "timex_extractor_path": "models/temporal_tagger_BERT_tokenclassifier",
+    "outcome_sim_path": "/people/laiking/workspace/repos/gradio-outcome-switching-detection-app-master/models/all-mpnet-base-v2_outcome-sim"
+}

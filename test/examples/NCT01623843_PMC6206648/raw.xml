@@ -1,0 +1,1844 @@
+<article xmlns:ns0="http://www.w3.org/1999/xlink" article-type="research-article">
+  
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Trials</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Trials</journal-id>
+      <journal-title-group>
+        <journal-title>Trials</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1745-6215</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">30373659</article-id>
+      <article-id pub-id-type="pmc">6206648</article-id>
+      <article-id pub-id-type="publisher-id">2965</article-id>
+      <article-id pub-id-type="doi">10.1186/s13063-018-2965-0</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Study Protocol</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Femoroacetabular Impingement Randomised controlled Trial (FIRST) - a multi-centre randomized controlled trial comparing arthroscopic lavage and arthroscopic osteochondroplasty on patient important outcomes and quality of life in the treatment of young adult (18–50 years) femoroacetabular impingement: a statistical analysis plan</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Simunovic</surname>
+            <given-names>Nicole</given-names>
+          </name>
+          <address>
+            <email>simunon@mcmaster.ca</email>
+          </address>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Heels-Ansdell</surname>
+            <given-names>D.</given-names>
+          </name>
+          <address>
+            <email>ansdell@mcmaster.ca</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Thabane</surname>
+            <given-names>L.</given-names>
+          </name>
+          <address>
+            <email>ThabanL@mcmaster.ca</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Ayeni</surname>
+            <given-names>O. R.</given-names>
+          </name>
+          <address>
+            <email>ayenif@mcmaster.ca</email>
+          </address>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <collab>on behalf of the FIRST Investigators<contrib-group><contrib contrib-type="author"><name><surname>Ayeni</surname><given-names>Olufemi R.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Bhandari</surname><given-names>Mohit</given-names></name></contrib><contrib contrib-type="author"><name><surname>Bedi</surname><given-names>Asheesh</given-names></name></contrib><contrib contrib-type="author"><name><surname>Järvinen</surname><given-names>Teppo</given-names></name></contrib><contrib contrib-type="author"><name><surname>Musahl</surname><given-names>Volker</given-names></name></contrib><contrib contrib-type="author"><name><surname>Naudie</surname><given-names>Douglas</given-names></name></contrib><contrib contrib-type="author"><name><surname>Seppänen</surname><given-names>Matti</given-names></name></contrib><contrib contrib-type="author"><name><surname>Slobogean</surname><given-names>Gerard</given-names></name></contrib><contrib contrib-type="author"><name><surname>Thabane</surname><given-names>Lehana</given-names></name></contrib><contrib contrib-type="author"><name><surname>Simunovic</surname><given-names>Nicole</given-names></name></contrib><contrib contrib-type="author"><name><surname>Duong</surname><given-names>Andrew</given-names></name></contrib><contrib contrib-type="author"><name><surname>Skelly</surname><given-names>Matthew</given-names></name></contrib><contrib contrib-type="author"><name><surname>Sprague</surname><given-names>Sheila</given-names></name></contrib><contrib contrib-type="author"><name><surname>Heels-Ansdell</surname><given-names>Diane</given-names></name></contrib><contrib contrib-type="author"><name><surname>Buckingham</surname><given-names>Lisa</given-names></name></contrib><contrib contrib-type="author"><name><surname>Ramsay</surname><given-names>Tim</given-names></name></contrib><contrib contrib-type="author"><name><surname>Lee</surname><given-names>John</given-names></name></contrib><contrib contrib-type="author"><name><surname>Kousa</surname><given-names>Petteri</given-names></name></contrib><contrib contrib-type="author"><name><surname>Carsen</surname><given-names>Sasha</given-names></name></contrib><contrib contrib-type="author"><name><surname>Choudur</surname><given-names>Hema</given-names></name></contrib><contrib contrib-type="author"><name><surname>Sim</surname><given-names>Yan</given-names></name></contrib><contrib contrib-type="author"><name><surname>Johnston</surname><given-names>Kelly</given-names></name></contrib><contrib contrib-type="author"><name><surname>Wong</surname><given-names>Ivan</given-names></name></contrib><contrib contrib-type="author"><name><surname>Paquet</surname><given-names>Nicole</given-names></name></contrib><contrib contrib-type="author"><name><surname>Den Hartog</surname><given-names>Jalisa</given-names></name></contrib><contrib contrib-type="author"><name><surname>Whelan</surname><given-names>Daniel</given-names></name></contrib><contrib contrib-type="author"><name><surname>Khan</surname><given-names>Ryan</given-names></name></contrib><contrib contrib-type="author"><name><surname>Wood</surname><given-names>Gavin C. A.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Howells</surname><given-names>Fiona</given-names></name></contrib><contrib contrib-type="author"><name><surname>Grant</surname><given-names>Heather</given-names></name></contrib><contrib contrib-type="author"><name><surname>Zomar</surname><given-names>Bryn</given-names></name></contrib><contrib contrib-type="author"><name><surname>Pollock</surname><given-names>Michael</given-names></name></contrib><contrib contrib-type="author"><name><surname>Willits</surname><given-names>Kevin</given-names></name></contrib><contrib contrib-type="author"><name><surname>Firth</surname><given-names>Andrew</given-names></name></contrib><contrib contrib-type="author"><name><surname>Wanlin</surname><given-names>Stacey</given-names></name></contrib><contrib contrib-type="author"><name><surname>Remtulla</surname><given-names>Alliya</given-names></name></contrib><contrib contrib-type="author"><name><surname>Kaniki</surname><given-names>Nicole</given-names></name></contrib><contrib contrib-type="author"><name><surname>Belzile</surname><given-names>Etienne L.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Turmel</surname><given-names>Sylvie</given-names></name></contrib><contrib contrib-type="author"><name><surname>Routapohja</surname><given-names>Mari Pirjetta</given-names></name></contrib><contrib contrib-type="author"><name><surname>Jørgensen</surname><given-names>Uffe</given-names></name></contrib><contrib contrib-type="author"><name><surname>Gam-Pedersen</surname><given-names>Annie</given-names></name></contrib><contrib contrib-type="author"><name><surname>Sihvoenen</surname><given-names>Raine</given-names></name></contrib><contrib contrib-type="author"><name><surname>Raivio</surname><given-names>Marko</given-names></name></contrib><contrib contrib-type="author"><name><surname>Toivonen</surname><given-names>Pirjo</given-names></name></contrib></contrib-group></collab>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8227</institution-id><institution-id institution-id-type="GRID">grid.25073.33</institution-id><institution>Department of Health Research Methods, Evidence and Impact, </institution><institution>McMaster University, </institution></institution-wrap>1200 Main St W, 2C, Hamilton, ON L8S 4K1 Canada </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8227</institution-id><institution-id institution-id-type="GRID">grid.25073.33</institution-id><institution>Department of Surgery, Division of Orthopaedic Surgery, </institution><institution>McMaster University, </institution></institution-wrap>1200 Main St W, 4E15, Hamilton, ON L8N 3Z5 Canada </aff>
+        <aff id="Aff3"><label>3</label>Biostatistics/FORSC, 3rd Floor, H325, St. Joseph’s Healthcare, 50 Charlton Ave. E, Hamilton, ON L8N 4A6 Canada </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>10</month>
+        <year>2018</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>29</day>
+        <month>10</month>
+        <year>2018</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2018</year>
+      </pub-date>
+      <volume>19</volume>
+      <elocation-id>588</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+        <date date-type="accepted">
+          <day>4</day>
+          <month>10</month>
+          <year>2018</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© The Author(s). 2018</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p><bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" ns0:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" ns0:href="http://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Background</title>
+          <p id="Par1">The research objectives of the Femoroacetabular Impingement Randomised controlled Trial (FIRST) are to assess whether surgical correction of the hip impingement morphology (arthroscopic osteochondroplasty) with or without labral repair, in adults aged 18–50 years diagnosed with non-arthritic femoroacetabular impingement (FAI), provides decreased pain and improved health-related quality of life at 12 months compared to arthroscopic lavage of the hip joint. This article describes the statistical analysis plan for the FIRST trial.</p>
+        </sec>
+        <sec>
+          <title>Methods/design</title>
+          <p id="Par2">FIRST is an ongoing multi-centre, blinded randomised controlled trial of 220 patients who have been diagnosed with FAI and are optimized for surgical intervention. This article describes the overall analysis principles, including how participants will be included in each analysis, the presentation of the results, adjustments for covariates, the primary and secondary outcomes and their respective analyses. In addition, we will present the planned sensitivity and subgroup analyses.</p>
+        </sec>
+        <sec>
+          <title>Discussion</title>
+          <p id="Par3">Our rationale for FIRST is based upon (1) an epidemic of FAI surgery with resultant increased healthcare costs over that last decade, (2) worldwide disparity in perceptions about its utility, and (3) consensus that definitive evidence for or against surgical approaches is lacking.</p>
+        </sec>
+        <sec>
+          <title>Trial registration</title>
+          <p id="Par4">ClinicalTrials.gov, <ext-link ext-link-type="uri" ns0:href="https://clinicaltrials.gov/ct2/show/NCT01623843?term=first&amp;cond=Femoroacetabular+Impingement&amp;cntry=CA&amp;rank=1">NCT01623843</ext-link>. Registered on 20 June 2012.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Statistical analysis plan</kwd>
+        <kwd>Randomised controlled trial</kwd>
+        <kwd>Femoroacetabular impingement</kwd>
+        <kwd>Lavage</kwd>
+        <kwd>Osteochondroplasty</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100000024</institution-id>
+              <institution>Canadian Institutes of Health Research</institution>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100011549</institution-id>
+              <institution>American Orthopaedic Society for Sports Medicine</institution>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100009776</institution-id>
+              <institution>McMaster University</institution>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100008360</institution-id>
+              <institution>Hamilton Health Sciences</institution>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>© The Author(s) 2018</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Background</title>
+      <p id="Par17">The Femoroacetabular Impingement Randomised controlled Trial (FIRST) is a multi-centre, concealed randomized controlled trial (RCT) evaluating the effect of arthroscopic lavage (i.e. washing out the hip joint) versus osteochondroplasty (i.e. surgical correction of the hip impingement morphology) in adults aged 18–50 years diagnosed with non-arthritic femoroacetabular impingement (FAI). The protocol for the FIRST trial has been previously published [<xref ref-type="bibr" rid="CR1">1</xref>] and provides more detail on the trial rationale, eligibility criteria, interventions, data management, and methods for limiting bias.</p>
+      <p id="Par18">FAI is a condition that causes hip pain in the young adult as a result of a size and shape mismatch between the femoral head and the acetabulum. FAI is typically classified into two sub-types; cam type (a misshaped femoral head) or pincer type (an over-covered or deep socket). Most patients have a combination of both types of impingement. With FAI, the femoral head (ball) and acetabular rim (socket) of the hip joint collide during hip flexion and rotation. This collision results in an impingement of the femoral head/neck/column on the acetabular rim, and patients experience hip pain. This pain can be a precursor to early hip damage such as cartilage delamination and labral tears of the hip. As the condition progresses, the resulting hip damage may lead to osteoarthritis of the hip [<xref ref-type="bibr" rid="CR1">1</xref>].</p>
+      <p id="Par19">The rationale for the FIRST trial is based upon (1) an exponential increase in FAI surgery with resultant increased healthcare costs over that last decade, (2) worldwide disparity in perceptions about its utility, and (3) consensus that definitive evidence for or against surgical approaches is lacking. Therefore, the primary objective of the trial is to assess whether surgical correction of the impingement morphology (arthroscopic osteochondroplasty) with or without labral repair, in adults aged 18–50 years diagnosed with non-arthritic FAI, provides decreased pain at 12 months compared to arthroscopic lavage of the hip joint. Secondary objectives include measuring outcomes associated with the intervention and control groups (osteochondroplasty versus lavage) related to improved lifestyle, emotional health, and physical health.</p>
+      <p id="Par20">This trial is a parallel multi-centre, blinded randomised controlled trial (RCT) of 220 patients who have been diagnosed with FAI, to determine the superiority of arthroscopic osteochondroplasty to arthroscopic lavage. Briefly, participants were recruited from experienced hip surgeons practicing at 10 participating sites based in Canada, Finland, and Denmark. Patients were allocated to one of two treatment arms using an online centralized 24-h computerised randomisation system. The randomisation system follows a computer-generated randomisation schedule in random block sizes of 4 and 8. Randomisation was stratified by impingement sub-type (cam versus mixed) and clinical centre. Study personnel monitor critical aspects of perioperative care and rehabilitation. We are assessing subject pain within 12 months using a visual analogue scale (VAS) after surgery as the primary outcome. Secondary outcomes include function, health-related quality of life, post-operative complications, and costs. Quality of the surgery and complications, including re-operations, will be reviewed by an independent adjudication committee. Outcome assessors and data analysts are blinded to treatment allocation. The full study process is shown in Fig. <xref rid="Fig1" ref-type="fig">1</xref>.<fig id="Fig1"><label>Fig. 1</label><caption><p>Femoroacetabular Impingement Randomised controlled Trial (FIRST) process overview. MRI, magnetic resonance imaging; MRA, magnetic resonance angiography; FAI, femoroacetabular impingement; VAS, visual analogue scale; HOS, Hip Outcome Score; iHOT, International Hip Outcome Tool; SF-12 Short Form-12; EQ-5D, EuroQol-5 Dimensions</p></caption><graphic ns0:href="13063_2018_2965_Fig1_HTML" id="MO1" /></fig></p>
+      <p id="Par21">In this article, we present our planned statistical analyses for the FIRST trial. The statistical analysis plan was finalized and approved on 29 November 2017 (Version 1.0) for the FIRST trial protocol (20 April 2016, Version 3.0) and in accordance with the trial Masterfile, including the Data Management Plan (June 4, 2014, Version 1.0). Ethics approval was granted at the Methods Centre at McMaster University (Hamilton Integrated Research Ethics Board #12–396) and at each participating site (as per their local ethics board). The trial is registered at <ext-link ext-link-type="uri" ns0:href="http://clinicaltrials.gov">ClinicalTrials.gov</ext-link> (NCT01623843).</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Methods</title>
+      <sec id="Sec3">
+        <title>Outcomes</title>
+        <sec id="Sec4">
+          <title>Primary outcome</title>
+          <p id="Par22">The FIRST primary outcome is pain at 12 months as measured by the VAS. The primary analysis is to assess whether surgical correction of the impingement morphology (arthroscopic osteochondroplasty) with/without labral repair, in adults aged 18–50 years diagnosed with FAI, provides decreased pain at 12 months compared to arthroscopic lavage of the hip joint with/without labral repair, as measured by the VAS. The VAS is a validated unidimensional scale that is easy to use, requires no verbal or reading skills, and is sufficiently versatile to be employed in a variety of settings [<xref ref-type="bibr" rid="CR2">2</xref>–<xref ref-type="bibr" rid="CR4">4</xref>].</p>
+        </sec>
+        <sec id="Sec5">
+          <title>Secondary outcomes</title>
+          <p id="Par23">Secondary outcomes include:<list list-type="order"><list-item><p id="Par24">Hip function as measured by the Hip Outcome Score (HOS).</p></list-item><list-item><p id="Par25">Generic physical and mental health as measured by the Short Form-12 (SF-12).</p></list-item><list-item><p id="Par26">Impact of hip-specific disease on function and lifestyle in the young, active patient as measured by the International Hip Outcome Tool (iHOT-12).</p></list-item><list-item><p id="Par27">Health utility as measured by the EuroQol (EQ-5D).</p></list-item><list-item><p id="Par28">Complications, including additional surgery and other serious and non-serious adverse events. Reasons for re-operations for the randomized hip typically include, but are not limited to re-injury of the labrum/cartilage, hip dislocation, hip instability, infection (deep or superficial), wound healing problem, soft tissue problem, and unresolved hip pain. Other hip-related adverse events to be reported include, but are not limited to, hip instability, tendinopathy, re-injury of the labrum/cartilage, hip osteoarthritis post-surgery, and infection (superficial or deep).</p></list-item></list></p>
+          <p id="Par29">The HOS is a self-administered hip score that was designed to capture hip function and outcomes following surgical therapies such as arthroscopy [<xref ref-type="bibr" rid="CR5">5</xref>]. The HOS has been shown to have the greatest clinimetric evidence for use in patients with FAI or labral tears [<xref ref-type="bibr" rid="CR6">6</xref>, <xref ref-type="bibr" rid="CR7">7</xref>]. The SF-12 may be self-completed or interview-administered and will help document general health status and the burden of illness that FAI presents [<xref ref-type="bibr" rid="CR8">8</xref>]. The iHOT-12 is a shorter version of the iHOT-33 designed to be easier to complete in routine clinical practice to measure both health-related quality of life and changes after treatment in young, active patients with hip disorders [<xref ref-type="bibr" rid="CR9">9</xref>]. This questionnaire has been shown to be valid, reliable, and responsive to change [<xref ref-type="bibr" rid="CR9">9</xref>]. The EQ-5D is a standardized instrument for use as a measure of health outcome [<xref ref-type="bibr" rid="CR10">10</xref>]. The EQ-5D comprises five dimensions of health (mobility, self-care, usual activities, pain/discomfort, and anxiety/depression). The EQ-5D has been used in previous studies involving patients with hip pain and has been extensively validated [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR12">12</xref>].</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="Sec6">
+      <title>Discussion</title>
+      <sec id="Sec7">
+        <title>Analysis plan</title>
+        <p id="Par30">This statistical analysis plan follows the JAMA Guidelines for the content of statistical analysis plans in clinical trials [<xref ref-type="bibr" rid="CR13">13</xref>]. A summary of all planned analyses is provided in Table <xref rid="Tab1" ref-type="table">1</xref>.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Statistical analysis plan summary</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2">Objective</th><th colspan="2">Outcome</th><th rowspan="2">Hypothesis</th><th rowspan="2">Method of analysis<sup>a</sup></th></tr><tr><th>Name</th><th>Type</th></tr></thead><tbody><tr><td colspan="5">Primary objective</td></tr><tr><td> To compare pain levels at 1 year</td><td>Pain (VAS)</td><td>Continuous</td><td>Osteochondroplasty will reduce pain compared to lavage</td><td>Multiple linear regression</td></tr><tr><td colspan="5">Secondary objectives 1</td></tr><tr><td rowspan="5"> To compare patient-reported health-related quality of life</td><td>Hip function (HOS)</td><td>Continuous</td><td rowspan="5">Osteochondroplasty will improve health-related quality of life, function, and utility compared to lavage</td><td rowspan="5">Multiple linear regression</td></tr><tr><td>Hip-specific disease on hip function (iHOT-12)</td><td>Continuous</td></tr><tr><td>Physical health (SF-12 PCS)</td><td>Continuous</td></tr><tr><td>Mental health (SF-12 MCS)</td><td>Continuous</td></tr><tr><td>Health Utility (EQ-5D)</td><td>Continuous</td></tr><tr><td colspan="5">Secondary objective 2</td></tr><tr><td> To compare hip complications</td><td>Hip-related complications (e.g. re-operation)</td><td>Binary</td><td>Osteochondroplasty will reduce rate of re-operations compared to lavage</td><td>Multiple logistic regression</td></tr><tr><td colspan="5">Subgroup analysis</td></tr><tr><td> Hip impingement severity: mild (alpha angle &lt; 60 – &gt; 50 degrees), moderate (alpha angle &gt; 60 – &lt; 83°), severe (alpha angle &gt; 83°)</td><td>Pain (VAS)</td><td>Continuous</td><td>Patients with severe impingement at baseline will have the greatest improvement with the osteochondroplasty procedure compared with those with moderate to mild impingement</td><td>Multiple linear regression</td></tr><tr><td> Gender: male, female</td><td>Pain (VAS)</td><td>Continuous</td><td>The osteochondroplasty procedure will perform better in males</td><td>Multiple linear regression</td></tr><tr><td> Cartilage status (based on Tonnis and Heinecke classification): grades 3 and 4, grades 1 and 2</td><td>Pain (VAS)</td><td>Continuous</td><td>Osteochondroplasty will perform worse in patients with worse cartilage status (i.e. grades 3 and 4)</td><td>Multiple linear regression</td></tr><tr><td> Treatment of the labrum: labral repair, resection</td><td>Pain (VAS)</td><td>Continuous</td><td>Patients receiving a labral repair will perform better than those receiving a resection as part of the osteochondroplasty procedure</td><td>Multiple linear regression</td></tr><tr><td colspan="5">Sensitivity analysis</td></tr><tr><td> Trial site (centre-effects)</td><td>Pain (VAS)</td><td>Continuous</td><td>We do not expect the effect to change substantially when centre-effects are removed from the primary analysis</td><td>Multiple linear regression with centre-effects removed</td></tr><tr><td> Missing data effect</td><td>Pain (VAS)</td><td>Continuous</td><td>We do not expect the effect to change substantially without imputation for missing data</td><td>Multiple linear regression with complete cases only</td></tr><tr><td> Potential baseline imbalance</td><td>Pain (VAS)</td><td>Continuous</td><td>Results will remain robust after adjusting for potential baseline imbalance on age, any comorbidities, onset of symptoms, and presence of labral tears at initial surgery</td><td>Multiple linear regression with complete cases only</td></tr></tbody></table><table-wrap-foot><p>*All regression analyses will be controlled for centre as a stratification variableVAS: Visual Analogue Scale, SF: Short Form, PCS: Physical Component Summary, MCS: Mental Component Summary, HOS:Hip Outcome Score, iHOT: International Hip Outcome Tool, EQ-5D: Euroqol-5 Dimensions</p></table-wrap-foot></table-wrap></p>
+        <sec id="Sec8">
+          <title>Blinded analyses</title>
+          <p id="Par31">All statistical analyses will first be completed using blinded treatment groups (i.e. treatment X and Y). Interpretations for the effect of the surgical interventions will be documented based upon blinded X versus Y treatment [<xref ref-type="bibr" rid="CR14">14</xref>].</p>
+        </sec>
+        <sec id="Sec9">
+          <title>Presentation of data</title>
+          <p id="Par32">The trial results will be presented according to the Consolidated standards of reporting trials (CONSORT) guidelines for RCTs [<xref ref-type="bibr" rid="CR15">15</xref>]. The baseline demographic characteristics and a description of the surgical and peri-operative management characteristics of the patients will be summarized by group, reported as mean (standard deviation (SD)) or median (first quartile, third quartile) for continuous variables and count (percent) for categorical variables (Tables <xref rid="Tab2" ref-type="table">2</xref> and <xref rid="Tab3" ref-type="table">3</xref>). All statistical tests will be two-tailed with α = 0.05.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Patient demographics and hip characteristics</p></caption><table frame="hsides" rules="groups"><thead><tr><th /><th>Treatment X<break /><italic>n</italic> =</th><th>Treatment Y<break /><italic>n</italic> =</th></tr></thead><tbody><tr><td colspan="3">Patient characteristics</td></tr><tr><td> Age, mean (SD)</td><td /><td /></tr><tr><td> Gender, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  Male</td><td /><td /></tr><tr><td>  Female</td><td /><td /></tr><tr><td> Ethnicity, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  Native</td><td /><td /></tr><tr><td>  Asian</td><td /><td /></tr><tr><td>  Black</td><td /><td /></tr><tr><td>  Hispanic</td><td /><td /></tr><tr><td>  White/Caucasian</td><td /><td /></tr><tr><td> Smoking history, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  Never smoked</td><td /><td /></tr><tr><td>  Current smoker</td><td /><td /></tr><tr><td>  Former smoker</td><td /><td /></tr><tr><td> Alcohol consumption, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  No alcohol at baseline</td><td /><td /></tr><tr><td>  0.5–2 drinks/week</td><td /><td /></tr><tr><td>  3–5 drinks/week</td><td /><td /></tr><tr><td>  6–10 drinks/week</td><td /><td /></tr><tr><td>  11+ drinks/week</td><td /><td /></tr><tr><td> Current medications, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  None</td><td /><td /></tr><tr><td>  NSAIDS</td><td /><td /></tr><tr><td>  Intra-articular injection</td><td /><td /></tr><tr><td>  Etc…. (as per available data)</td><td /><td /></tr><tr><td> Co-morbidities, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  None</td><td /><td /></tr><tr><td>  Cancer</td><td /><td /></tr><tr><td>  Back pain</td><td /><td /></tr><tr><td>  Etc… (as per available data)</td><td /><td /></tr><tr><td> BMI, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  Underweight &lt; 18.5</td><td /><td /></tr><tr><td>  Normal weight 18.5–24.9</td><td /><td /></tr><tr><td>  Overweight 25–29.9</td><td /><td /></tr><tr><td>  Obese 30–39.9</td><td /><td /></tr><tr><td>  Morbidly obese 40 or greater</td><td /><td /></tr><tr><td> Weightbearing status, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  Full weightbearing</td><td /><td /></tr><tr><td>  Partial weightbearing</td><td /><td /></tr><tr><td>  Non-weightbearing</td><td /><td /></tr><tr><td> Baseline sport activity, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  None</td><td /><td /></tr><tr><td>  Light</td><td /><td /></tr><tr><td>  Moderate</td><td /><td /></tr><tr><td>  Vigorous</td><td /><td /></tr><tr><td colspan="3">Hip characteristics</td></tr><tr><td> Affected hip, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  Left</td><td /><td /></tr><tr><td>  Right</td><td /><td /></tr><tr><td> Location of hip pain, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  Groin</td><td /><td /></tr><tr><td>  Lateral</td><td /><td /></tr><tr><td>  Posterior</td><td /><td /></tr><tr><td>  Groin and lateral</td><td /><td /></tr><tr><td>  Groin and posterior</td><td /><td /></tr><tr><td>  Lateral and posterior</td><td /><td /></tr><tr><td>  Groin and lateral and posterior</td><td /><td /></tr><tr><td> Onset of symptoms, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  Acute</td><td /><td /></tr><tr><td>  Subacute</td><td /><td /></tr><tr><td>  Insidious</td><td /><td /></tr><tr><td>  Traumatic</td><td /><td /></tr><tr><td>  Non-traumatic</td><td /><td /></tr><tr><td> Tonnis and Heinecke classification, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  Grade 0</td><td /><td /></tr><tr><td>  Grade 1</td><td /><td /></tr><tr><td>  Grade 2</td><td /><td /></tr><tr><td>  Grade 3</td><td /><td /></tr><tr><td> Labral tears present, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  None</td><td /><td /></tr><tr><td>  Anterior</td><td /><td /></tr><tr><td>  Posterior</td><td /><td /></tr><tr><td>  Superior/lateral</td><td /><td /></tr><tr><td>  Anterior and posterior</td><td /><td /></tr><tr><td>  Anterior and superior/lateral</td><td /><td /></tr><tr><td>  Posterior and superior/lateral</td><td /><td /></tr><tr><td> Herniation pits present, <italic>n</italic> (%)</td><td /><td /></tr><tr><td>  No</td><td /><td /></tr><tr><td>  Yes</td><td /><td /></tr></tbody></table><table-wrap-foot><p><italic>NSAID</italic> non-steroidal anti-inflammatory drug, <italic>BMI</italic> body mass index</p></table-wrap-foot></table-wrap><table-wrap id="Tab3"><label>Table 3</label><caption><p>Surgical and peri-operative management</p></caption><table frame="hsides" rules="groups"><thead><tr><th /><th>Treatment X<break /><italic>n</italic> =</th><th>Treatment Y<break /><italic>n</italic> =</th></tr></thead><tbody><tr><td>Duration of procedure, mean (SD)</td><td /><td /></tr><tr><td>Duration of traction, mean (SD)</td><td /><td /></tr><tr><td>Total saline used in procedure, mean (SD)</td><td /><td /></tr><tr><td>Type of surgical prep solution, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> Iodine</td><td /><td /></tr><tr><td> Chlorohexidine</td><td /><td /></tr><tr><td> Alcohol</td><td /><td /></tr><tr><td> Etc... (as per available data)</td><td /><td /></tr><tr><td>Labral tears, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> None</td><td /><td /></tr><tr><td> Partial</td><td /><td /></tr><tr><td> Complete</td><td /><td /></tr><tr><td>Labrum injected, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> No</td><td /><td /></tr><tr><td> Yes</td><td /><td /></tr><tr><td>  Focal</td><td /><td /></tr><tr><td>  Diffuse</td><td /><td /></tr><tr><td>Outerbridge intra-operative cartilage classification, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> Grade 0</td><td /><td /></tr><tr><td> Grade 1</td><td /><td /></tr><tr><td> Grade 2</td><td /><td /></tr><tr><td> Grade 3</td><td /><td /></tr><tr><td> Grade 4</td><td /><td /></tr><tr><td>Beck intra-operative cartilage classification, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> Grade 0</td><td /><td /></tr><tr><td> Grade 1</td><td /><td /></tr><tr><td> Grade 2</td><td /><td /></tr><tr><td> Grade 3</td><td /><td /></tr><tr><td> Grade 4</td><td /><td /></tr><tr><td>Beck intra-operative labral classification, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> Grade 0</td><td /><td /></tr><tr><td> Grade 1</td><td /><td /></tr><tr><td> Grade 2</td><td /><td /></tr><tr><td> Grade 3</td><td /><td /></tr><tr><td> Grade 4</td><td /><td /></tr><tr><td>Capsulotomy performed, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> No</td><td /><td /></tr><tr><td> Yes</td><td /><td /></tr><tr><td>  Partial</td><td /><td /></tr><tr><td>  Complete</td><td /><td /></tr><tr><td>Capsular closure performed, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> Yes</td><td /><td /></tr><tr><td> No</td><td /><td /></tr><tr><td>Anchors used for labrum repair, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> Not applicable (no repair)</td><td /><td /></tr><tr><td> 0</td><td /><td /></tr><tr><td> 1</td><td /><td /></tr><tr><td> 2</td><td /><td /></tr><tr><td> 3</td><td /><td /></tr><tr><td> 4</td><td /><td /></tr><tr><td> 5</td><td /><td /></tr><tr><td> 6</td><td /><td /></tr><tr><td>Antibiotic prophylaxis, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> No</td><td /><td /></tr><tr><td> Yes</td><td /><td /></tr><tr><td>  Cefazolin</td><td /><td /></tr><tr><td>  Cefuroxime</td><td /><td /></tr><tr><td>  Vancomycin</td><td /><td /></tr><tr><td>  Other</td><td /><td /></tr><tr><td>Thromboprophylaxis, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> No</td><td /><td /></tr><tr><td> Yes</td><td /><td /></tr><tr><td>  Aspirin</td><td /><td /></tr><tr><td>  Heparin</td><td /><td /></tr><tr><td>  Warfarin</td><td /><td /></tr><tr><td>  Mechanical</td><td /><td /></tr><tr><td>  LMWH</td><td /><td /></tr><tr><td>  Other</td><td /><td /></tr><tr><td>Patient discharge location, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> Home</td><td /><td /></tr><tr><td> Rehabilitation facility</td><td /><td /></tr><tr><td> Other hospital</td><td /><td /></tr><tr><td>Weightbearing, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> Non-weightbearing</td><td /><td /></tr><tr><td> Partial weightbearing</td><td /><td /></tr><tr><td> Full weightbearing</td><td /><td /></tr><tr><td>Patient aids at discharge, <italic>n</italic> (%)</td><td /><td /></tr><tr><td> None (ambulatory)</td><td /><td /></tr><tr><td> Wheelchair</td><td /><td /></tr><tr><td> Walker</td><td /><td /></tr><tr><td> Two crutches</td><td /><td /></tr><tr><td> One crutch</td><td /><td /></tr><tr><td> Cane</td><td /><td /></tr><tr><td> Other</td><td /><td /></tr></tbody></table><table-wrap-foot><p><italic>LMWH</italic> low molecular-weight heparin</p></table-wrap-foot></table-wrap></p>
+        </sec>
+        <sec id="Sec10">
+          <title>Primary outcome analysis</title>
+          <p id="Par33">Our hypotheses for the primary analysis are as follows:<list list-type="bullet"><list-item><p id="Par34">Null hypothesis: there is no difference in reported pain between groups at 12 months measured using the VAS score.</p></list-item><list-item><p id="Par35">Alternative hypothesis: there is a difference in reported pain between groups at 12 months measured using the VAS score.</p></list-item></list></p>
+          <p id="Par36">The primary analysis will be an analysis to compare the mean pain scores (VAS) at 12 months post-surgery adjusting for baseline VAS score (Table <xref rid="Tab4" ref-type="table">4</xref>). This analysis will be a multiple linear regression with VAS as the dependent variable and the following independent variables: treatment, baseline VAS score, impingement subtype, and clinical centre (all centres with fewer than 10 patients enrolled will be collapsed into a single centre for the independent variable entered into the primary analysis model). Assuming that data would be missing at random, we will use multiple imputation that will be stratified by trial arm and will include baseline demographic or prognostic variables for which we have complete data to handle missing data to enable intention-to-treat analysis [<xref ref-type="bibr" rid="CR16">16</xref>]. The treatment effect will be reported as an absolute difference in rate of pain reduction with the associated 95% confidence interval and <italic>p</italic> value. We will not perform a per-protocol analysis given the cross-over rate at the time of final enrollment was less than 0.5%. We will not exclude cross-overs in the final analysis. We will examine residuals to assess the model assumptions for the multiple linear regression model. All analyses will be performed using SAS version 9.4 (Cary, NC, USA).<table-wrap id="Tab4"><label>Table 4</label><caption><p>Study outcomes by treatment group</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2" /><th>Treatment X<break /><italic>n</italic> =</th><th>Treatment Y<break /><italic>n</italic> =</th><th rowspan="2">Mean difference<sup>a</sup> (95% CI)</th><th rowspan="2"><italic>p</italic> value</th></tr><tr><th>mean (SD)</th><th>mean (SD)</th></tr></thead><tbody><tr><td>Primary outcome (pain as measured by VAS)</td><td /><td /><td /><td /></tr><tr><td>Secondary outcomes</td><td /><td /><td /><td /></tr><tr><td> SF-12 PCS</td><td /><td /><td /><td /></tr><tr><td> SF-12 MCS</td><td /><td /><td /><td /></tr><tr><td> HOS</td><td /><td /><td /><td /></tr><tr><td> iHOT-12</td><td /><td /><td /><td /></tr><tr><td> EQ-5D utility score</td><td /><td /><td /><td /></tr><tr><td /><td><italic>n</italic> (%)</td><td><italic>n</italic> (%)</td><td>Odds ratio<sup>b</sup> (95% CI)</td><td><italic>p</italic> value</td></tr><tr><td>Hip-related complications</td><td /><td /><td /><td /></tr><tr><td>Re-operations</td><td /><td /><td /><td /></tr></tbody></table><table-wrap-foot><p><italic>VAS</italic> visual analogue scale, <italic>PCS</italic> physical component summary, <italic>MCS</italic> mental component summary, <italic>HOS</italic> Hip Outcome Score, <italic>iHOT</italic> International Hip Outcome Tool, <italic>EQ-5D</italic> Euroqol-5 Dimensions, SD standard deviation, CI confidence interval</p><p><sup>a</sup>From the multiple linear regression model</p><p><sup>b</sup>From the logistic regression model</p></table-wrap-foot></table-wrap></p>
+        </sec>
+        <sec id="Sec11">
+          <title>Secondary outcomes analysis</title>
+          <p id="Par37">We will estimate the effect of arthroscopic osteochondroplasty (intervention) versus lavage (control) on FAI patient quality of life (SF-12 mental component summary (MCS) and physical component summary (PCS)), function HOS, iHOT-12), and health utility (EQ-5D) at 12 months (Table <xref rid="Tab4" ref-type="table">4</xref>). Similar to the primary analysis, we will perform multiple linear regressions that include treatment, baseline score, impingement subtype, and centre as independent variables. The results will be reported as mean differences with 95% confidence intervals. We will also estimate the effect of arthroscopic osteochondroplasty (intervention) versus lavage (control) on re-operation using logistic regression that includes treatment and impingement sub-type as independent variables. If we observe enough events, we will also include centre as an independent variable. The results will be presented as the odds ratio (OR) with the 95% confidence interval. Other hip-related adverse events that were not treated operatively will be presented by randomised group. The <italic>p</italic> values for treatment effects for these outcomes will not be adjusted given that the secondary analyses will be exploratory. We will also report hip measurements pre-surgery/post-surgery and 12 months post-surgery by treatment group (Table <xref rid="Tab5" ref-type="table">5</xref>). Analyses for secondary outcomes will be complete-case analyses only.<table-wrap id="Tab5"><label>Table 5</label><caption><p>Hip measurements</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="3" /><th colspan="3">Treatment X</th><th colspan="3">Treatment Y</th></tr><tr><th><italic>n</italic> =</th><th><italic>n</italic> =</th><th><italic>n</italic> =</th><th><italic>n</italic> =</th><th><italic>n</italic> =</th><th><italic>n</italic> =</th></tr><tr><th>Pre-op</th><th>Post-op</th><th>12 Months</th><th>Pre-op</th><th>Post-op</th><th>12 Months</th></tr></thead><tbody><tr><td>Anterior hip impingement test, <italic>n</italic> (%)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Positive</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Negative</td><td /><td /><td /><td /><td /><td /></tr><tr><td>Posterior hip impingement test, <italic>n</italic> (%)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Positive</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Negative</td><td /><td /><td /><td /><td /><td /></tr><tr><td>Log roll test, <italic>n</italic> (%)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Positive</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Negative</td><td /><td /><td /><td /><td /><td /></tr><tr><td>Crossover sign, <italic>n</italic> (%)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Positive</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Negative</td><td /><td /><td /><td /><td /><td /></tr><tr><td>Coxa profunda, <italic>n</italic> (%)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Positive</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Negative</td><td /><td /><td /><td /><td /><td /></tr><tr><td>Coxa protrusio, <italic>n</italic> (%)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Positive</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Negative</td><td /><td /><td /><td /><td /><td /></tr><tr><td>Centre-edge angle, mean (SD)</td><td /><td /><td /><td /><td /><td /></tr><tr><td>Alpha angle, mean (SD)</td><td /><td /><td /><td /><td /><td /></tr><tr><td>Neck shaft angle, mean (SD)</td><td /><td /><td /><td /><td /><td /></tr><tr><td>Femoral offset ratio, mean (SD)</td><td /><td /><td /><td /><td /><td /></tr><tr><td>Study hip range of motion, mean (SD)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Flexion</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Extension</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Abduction</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Adduction</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Internal rotation (neutral)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> External rotation (neutral)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Internal rotation (90° flexion)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> External rotation (90° flexion)</td><td /><td /><td /><td /><td /><td /></tr><tr><td>Non-study hip range of motion, mean (SD)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Flexion</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Extension</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Abduction</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Adduction</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Internal rotation (neutral)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> External rotation (neutral)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> Internal rotation (90° flexion)</td><td /><td /><td /><td /><td /><td /></tr><tr><td> External rotation (90° flexion)</td><td /><td /><td /><td /><td /><td /></tr></tbody></table><table-wrap-foot><p><italic>Pre-op</italic> preoperative</p></table-wrap-foot></table-wrap></p>
+        </sec>
+      </sec>
+      <sec id="Sec12">
+        <title>Sensitivity analyses</title>
+        <p id="Par38">We will perform sensitivity analysis of centre-effects<italic>,</italic> where we will repeat the primary analysis where clinical centre is not included in the model. We will also perform sensitivity analysis in regards to missing data where we include only complete cases (i.e. no imputation for missing data) [<xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR18">18</xref>]. We will also conduct an adjusted analysis, which will adjust for baseline demographics, which we reasonably expect to have an impact on our trial outcomes. We will add the following to the primary analysis as independent variables: (1) age (under 40 years vs. 40 years and older), (2) any comorbidities reported at baseline, (3) onset of symptoms (acute, subacute, insidious, traumatic, non-traumatic), and (4) presence of labral tears at initial surgery. This will address any potential baseline imbalance between randomised groups.</p>
+      </sec>
+      <sec id="Sec13">
+        <title>Subgroup analyses</title>
+        <p id="Par39">At the onset of the FIRST trial, we identified 4 important subgroups, which will be reported according to standard guidelines [<xref ref-type="bibr" rid="CR19">19</xref>]. We will add a main effect for the subgroup variable and the treatment by subgroup interaction to our primary model described above to assess whether the magnitude of the treatment effect is significantly different between subgroups (Fig. <xref rid="Fig2" ref-type="fig">2</xref>). This will be repeated for each subgroup variable. We will perform these subgroup analyses with the primary endpoint as the outcome:<list list-type="order"><list-item><p id="Par40">Severe versus moderate versus mild baseline impingement - impingement will be classified as follows: severe (alpha angle greater than 83°), moderate (alpha greater than 60°), and mild (alpha angle of less than 60°). We hypothesize that patients with severe impingement at baseline will have the greatest improvement with the osteochondroplasty procedure compared with those with moderate to mild impingement [<xref ref-type="bibr" rid="CR20">20</xref>–<xref ref-type="bibr" rid="CR22">22</xref>].</p></list-item><list-item><p id="Par41">Gender <bold>-</bold> we hypothesize that the osteochondroplasty procedure will perform better in men [<xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR24">24</xref>].</p></list-item><list-item><p id="Par42">Cartilage status (grades 3 and 4 vs 1 and 2) - based on the Tonnis and Heinecke cartilage classification, we hypothesize that osteochondroplasty will perform worse in patients with worse cartilage status (i.e. grades 3 and 4) [<xref ref-type="bibr" rid="CR25">25</xref>–<xref ref-type="bibr" rid="CR27">27</xref>].</p></list-item><list-item><p id="Par43">Treatment of the labrum <bold>-</bold> we hypothesize that patients receiving a labral repair will perform better than those receiving a resection as part of the osteochondroplasty procedure [<xref ref-type="bibr" rid="CR28">28</xref>].</p></list-item></list><fig id="Fig2"><label>Fig. 2</label><caption><p>Subgroup analyses of the primary end point, according to treatment group</p></caption><graphic ns0:href="13063_2018_2965_Fig2_HTML" id="MO3" /></fig></p>
+        <p id="Par44">If a statistically significant subgroup effect is found, we will further explore the impact of the subgroup on the secondary outcomes. No interim analyses are planned due to our desire to avoid spuriously inflated estimates of treatment effect [<xref ref-type="bibr" rid="CR29">29</xref>, <xref ref-type="bibr" rid="CR30">30</xref>]. The Data Safety and Monitoring Committee (DSMC) meet regularly to monitor the study data for safety.</p>
+        <sec id="Sec14">
+          <title>Dissemination</title>
+          <p id="Par45">Upon trial completion, the primary manuscript with the 12-month follow-up results, whether positive, negative or neutral, will be submitted for peer-reviewed publication in a top medical journal. The final dataset will be shared through an open access data repository once all analyses are completed.</p>
+        </sec>
+      </sec>
+      <sec id="Sec15">
+        <title>Trial status</title>
+        <p id="Par46">The trial began as a pilot of 50 patients in November 2012. Upon demonstrating feasibility and securing additional funding (January 2015), these participants were rolled into the definitive trial (<italic>N</italic> = 220). For the definitive trial, full participant recruitment was achieved in November 2017 and the final 12-month follow-up is expected to be completed in December 2018.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term>EQ-5D</term>
+          <def>
+            <p id="Par5">EuroQol-5 Dimensions</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>FAI</term>
+          <def>
+            <p id="Par6">Femoroacetabular impingement</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>FIRST</term>
+          <def>
+            <p id="Par7">Femoroacetabular impingement randomised controlled trial</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>HOS</term>
+          <def>
+            <p id="Par8">Hip Outcome Score</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>iHOT-12</term>
+          <def>
+            <p id="Par9">International Hip Outcome Tool-12</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>MCS</term>
+          <def>
+            <p id="Par10">Mental component summary</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>OR</term>
+          <def>
+            <p id="Par11">Odds ratio</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PCS</term>
+          <def>
+            <p id="Par12">Physical component summary</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>RCT</term>
+          <def>
+            <p id="Par13">Randomised controlled trial</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>SD</term>
+          <def>
+            <p id="Par14">Standard deviation</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>SF-12</term>
+          <def>
+            <p id="Par15">Short Form-12</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>VAS</term>
+          <def>
+            <p id="Par16">Visual analogue scale</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Full authorship list for the FIRST Investigators:</p>
+      <p>Steering Committee: Olufemi R. Ayeni (Chair, McMaster University), Mohit Bhandari (Co-Chair, McMaster University), Asheesh Bedi (University of Michigan), Teppo Järvinen (University of Helsinki), Volker Musahl (University of Pittsburgh), Douglas Naudie (University of Western Ontario), Matti Seppänen MD (Turku University), Gerard Slobogean (University of Maryland, Baltimore), Lehana Thabane (McMaster University).</p>
+      <p>Methods Centre: Olufemi R. Ayeni (Principal Investigator); Nicole Simunovic (Research Manager); Andrew Duong, Matthew Skelly (Project Management); Sheila Sprague (Research Methodologist); Diane Heels-Ansdell, (Statistical Analysis); Lisa Buckingham (Data Management) (McMaster University).</p>
+      <p>Data and Safety Monitoring Committee: Tim Ramsay (Chair, Ottawa Hospital Research Institute), John Lee (University of Toronto), Petteri Kousa (Sports Clinic Hospital Dextra).</p>
+      <p>Adjudication Committee: Sasha Carsen (University of Ottawa), Hema Choudur (Hamilton Health Sciences), Yan Sim (McMaster University), Kelly Johnston (University of Calgary).</p>
+      <p>Participating clinical sites:</p>
+      <p>Canada</p>
+      <p>McMaster University Medical Centre (Hamilton, ON, Canada) - Olufemi R. Ayeni MD, PhD, FRCSC; Nicole Simunovic MSc; Andrew Duong MSc; Matthew Skelly BHSc.</p>
+      <p>Dalhousie University (Halifax, NS, Canada) - Ivan Wong MD, FRCSC; Nicole Paquet MSc; Jalisa Den Hartog BSc.</p>
+      <p>St. Michael’s Hospital (Toronto, ON) - Daniel Whelan MD, MSc, FRCSC; Ryan Khan BA, CCRP.</p>
+      <p>Kingston Health Sciences Centre (Kingston, ON) - Gavin CA Wood MBChB, FRCS; Fiona Howells BPharm; Heather Grant MSc.</p>
+      <p>London Health Sciences Centre (London, ON) - Douglas Naudie MD, MSc, FRCSC; Bryn Zomar MSc; Michael Pollock MSc.</p>
+      <p>Fowler Kennedy Sport Medicine Clinic (London, ON) - Kevin Willits MD, FRCSC; Andrew Firth MSc; Stacey Wanlin; Alliya Remtulla MSc; Nicole Kaniki PhD.</p>
+      <p>CHU de Québec-Université Laval (Quebec City, QC) - Etienne L. Belzile MD; Sylvie Turmel RN.</p>
+      <p>International</p>
+      <p>Turku University Hospital (Turku, Finland) - Matti Seppänen MD; Mari Pirjetta Routapohja RN.</p>
+      <p>Odense University Hospital (Odense, Denmark) - Uffe Jørgensen MD, Dr. Med Sci; Annie Gam-Pedersen RN.</p>
+      <p>Hatanpää University Hospital (Tampere, Finland) - Raine Sihvoenen MD, PhD; Marko Raivio MD; Pirjo Toivonen PT.</p>
+      <sec id="FPar1">
+        <title>Funding</title>
+        <p id="Par47">Research grants were received from the following: Canadian Institutes of Health Research (CIHR) (PI: OR Ayeni, M Bhandari), American Orthopaedic Society for Sports Medicine (PI: OR Ayeni), Canadian Orthopaedic Foundation (PI: OR Ayeni, M Bhandari), McMaster Surgical Associates (PI: OR Ayeni, M Bhandari), and Hamilton Health Sciences Department of Surgery (PI: OR Ayeni). The funding sources had no role in design or conduct of the study; the collection, management, analysis, or interpretation of the data; or the preparation, review, or approval of the manuscript. Dr. OR Ayeni had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.</p>
+      </sec>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors’ contributions</title>
+      <p>NS drafted the manuscript, incorporated all author edits, and has given final approval of the version to be published. DHA drafted the majority of the initial statistical analysis plan, revised the manuscript critically for important intellectual content, and has given final approval of the version to be published. LT provided important intellectual content to the initial statistical analysis plan, revised the manuscript critically for important intellectual content, and has given final approval of the version to be published. ORA made substantial contributions to the conception and design of the statistical analysis plan, revised the manuscript critically for important intellectual content, has agreed to be accountable for all aspects of the work, and has given final approval of the version to be published. The FIRST Investigators contributed to the design, conduct, and overall data collection for the FIRST trial. All authors have read and approved the final manuscript.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <sec id="FPar2">
+        <title>Ethics approval and consent to participate</title>
+        <p>Ethics approval, including consent form approval, was granted at the Methods Centre at McMaster University (Hamilton Integrated Research Ethics Board #12–396) and at each participating site (as per their local ethics board).</p>
+      </sec>
+      <sec id="FPar3">
+        <title>Consent for publication</title>
+        <p>Not applicable.</p>
+      </sec>
+      <sec id="FPar4">
+        <title>Competing interests</title>
+        <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec id="FPar5">
+        <title>Publisher’s Note</title>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </sec>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>FIRST Investigators</collab>
+          </person-group>
+          <article-title>A multi-centre randomized controlled trial comparing arthroscopic osteochondroplasty and lavage with arthroscopic lavage alone on patient important outcomes and quality of life in the treatment of young adult (18-50) femoroacetabular impingement</article-title>
+          <source>BMC Musculoskelet Disord</source>
+          <year>2015</year>
+          <volume>16</volume>
+          <fpage>64</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12891-015-0500-y</pub-id>
+          <pub-id pub-id-type="pmid">25886958</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jensen</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Karoly</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>The measurement of clinical pain intensity: a comparison of six methods</article-title>
+          <source>Pain</source>
+          <year>1986</year>
+          <volume>27</volume>
+          <fpage>117</fpage>
+          <lpage>126</lpage>
+          <pub-id pub-id-type="doi">10.1016/0304-3959(86)90228-9</pub-id>
+          <pub-id pub-id-type="pmid">3785962</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Collins</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>The visual analog pain intensity scale: what is moderate pain in millimeters?</article-title>
+          <source>Pain</source>
+          <year>1997</year>
+          <volume>72</volume>
+          <fpage>95</fpage>
+          <lpage>97</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0304-3959(97)00005-5</pub-id>
+          <pub-id pub-id-type="pmid">9272792</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ho</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Spence</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Murphy</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Review of pain measurement tools</article-title>
+          <source>Ann Emerg Med</source>
+          <year>1996</year>
+          <volume>27</volume>
+          <fpage>427</fpage>
+          <lpage>431</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0196-0644(96)70223-8</pub-id>
+          <pub-id pub-id-type="pmid">8604852</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schenker</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Weiland</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Philippon</surname>
+              <given-names>MJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Current trends in hip arthroscopy: a review of injury diagnosis, techniques and outcome scoring</article-title>
+          <source>Curr Opin Orthopeadics</source>
+          <year>2005</year>
+          <volume>16</volume>
+          <fpage>89</fpage>
+          <lpage>94</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.bco.0000158174.92328.bb</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thorborg</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Roos</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Bartels</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Petersen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hölmich</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Validity, reliability and responsiveness of patient-reported outcome questionnaires when assessing hip and groin disability: a systematic review</article-title>
+          <source>Br J Sports Med</source>
+          <year>2010</year>
+          <volume>44</volume>
+          <fpage>1186</fpage>
+          <lpage>1196</lpage>
+          <pub-id pub-id-type="doi">10.1136/bjsm.2009.060889</pub-id>
+          <pub-id pub-id-type="pmid">19666629</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mohtadi</surname>
+              <given-names>NGH</given-names>
+            </name>
+            <name>
+              <surname>Griffin</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Pedersen</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Safran</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Parsons</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Sekiya</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>BT</given-names>
+            </name>
+            <name>
+              <surname>Werle</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Leunig</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>JC</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>HD</given-names>
+            </name>
+            <name>
+              <surname>Byrd</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Philippon</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Guanche</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Clohisy</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Sampson</surname>
+              <given-names>TG</given-names>
+            </name>
+            <name>
+              <surname>Kocher</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Larson</surname>
+              <given-names>CM</given-names>
+            </name>
+            <collab>for the Multicenter Arthroscopy of the Hip Outcomes Research Network (MAHORN)</collab>
+          </person-group>
+          <article-title>The development and validation of a self-administered quality-of-life outcome measure for young, active patients with symptomatic hip disease: the International Hip Outcome Tool (iHOT-33)</article-title>
+          <source>Arthroscopy</source>
+          <year>2012</year>
+          <volume>28</volume>
+          <fpage>595</fpage>
+          <lpage>610</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.arthro.2012.03.013</pub-id>
+          <pub-id pub-id-type="pmid">22542433</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ware</surname>
+              <given-names>J</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Kosinski</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Keller</surname>
+              <given-names>SD</given-names>
+            </name>
+          </person-group>
+          <article-title>A 12-item short-form health survey: construction of scales and preliminary tests of reliability and validity</article-title>
+          <source>Med Care</source>
+          <year>1996</year>
+          <volume>34</volume>
+          <fpage>220</fpage>
+          <lpage>233</lpage>
+          <pub-id pub-id-type="doi">10.1097/00005650-199603000-00003</pub-id>
+          <pub-id pub-id-type="pmid">8628042</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Griffin</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Parsons</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Mohtadi</surname>
+              <given-names>NGH</given-names>
+            </name>
+            <name>
+              <surname>Safran</surname>
+              <given-names>MR</given-names>
+            </name>
+            <collab>on behalf of the Multicenter Arthroscopy of the Hip Outcomes Research Network (MAHORN)</collab>
+          </person-group>
+          <article-title>A short version of the International Hip Outcome Tool (iHOT-12) for use in routine clinical practice</article-title>
+          <source>Arthroscopy</source>
+          <year>2012</year>
+          <volume>28</volume>
+          <fpage>611</fpage>
+          <lpage>618</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.arthro.2012.02.027</pub-id>
+          <pub-id pub-id-type="pmid">22542434</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <mixed-citation publication-type="other">EuroQol Group. The EQ-5D. Available at: <ext-link ext-link-type="uri" ns0:href="http://www.euroqol.org/home.html">http://www.euroqol.org/home.html</ext-link>. Accessed 10 Jan 2018.</mixed-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bosch</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Hunink</surname>
+              <given-names>MG</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of the Health Utilities Index Mark 3 (HUI3) and the EuroQol EQ-5D in patients treated for intermittent claudication</article-title>
+          <source>Qual Life Res</source>
+          <year>2000</year>
+          <volume>9</volume>
+          <fpage>591</fpage>
+          <lpage>601</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1008929129537</pub-id>
+          <pub-id pub-id-type="pmid">11236850</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hurst</surname>
+              <given-names>NP</given-names>
+            </name>
+            <name>
+              <surname>Kind</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Ruta</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Hunter</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Stubbings</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Measuring health-related quality of life in rheumatoid arthritis: validity, responsiveness and reliability of EuroQol (EQ-5D)</article-title>
+          <source>Br J Rheumatol</source>
+          <year>1997</year>
+          <volume>36</volume>
+          <fpage>551</fpage>
+          <lpage>559</lpage>
+          <pub-id pub-id-type="doi">10.1093/rheumatology/36.5.551</pub-id>
+          <pub-id pub-id-type="pmid">9189057</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gamble</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Krishan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Stocken</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Juszczak</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Dore</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Williamson</surname>
+              <given-names>PR</given-names>
+            </name>
+            <name>
+              <surname>Altman</surname>
+              <given-names>DG</given-names>
+            </name>
+            <name>
+              <surname>Montgomery</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Berlin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Senn</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Day</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Barbachano</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Loder</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Guidelines for the content of statistical analysis plans in clinical trials</article-title>
+          <source>JAMA</source>
+          <year>2017</year>
+          <volume>318</volume>
+          <issue>23</issue>
+          <fpage>2337</fpage>
+          <lpage>2343</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.2017.18556</pub-id>
+          <pub-id pub-id-type="pmid">29260229</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jarvinen</surname>
+              <given-names>TL</given-names>
+            </name>
+            <name>
+              <surname>Sihvonen</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bhandari</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sprague</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Malmivaara</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Paavola</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Schunemann</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Guyatt</surname>
+              <given-names>GH</given-names>
+            </name>
+          </person-group>
+          <article-title>Blinded interpretation of study results can feasibly and effectively diminish interpretation bias</article-title>
+          <source>J Clin Epidemiol</source>
+          <year>2014</year>
+          <volume>67</volume>
+          <issue>7</issue>
+          <fpage>769</fpage>
+          <lpage>772</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jclinepi.2013.11.011</pub-id>
+          <pub-id pub-id-type="pmid">24560088</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>Schulz KF</collab>
+            <name>
+              <surname>Altman</surname>
+              <given-names>DG</given-names>
+            </name>
+            <name>
+              <surname>Moher</surname>
+              <given-names>D</given-names>
+            </name>
+            <collab>for the CONSORT Group</collab>
+          </person-group>
+          <article-title>CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials</article-title>
+          <source>BMJ</source>
+          <year>2010</year>
+          <volume>340</volume>
+          <fpage>c332</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmj.c332</pub-id>
+          <pub-id pub-id-type="pmid">20332509</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Alyass</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Vanniyasingam</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Sadeghirad</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Florez</surname>
+              <given-names>ID</given-names>
+            </name>
+            <name>
+              <surname>Pichika</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Kennedy</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Abdulkarimova</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Iljon</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Morgano</surname>
+              <given-names>GP</given-names>
+            </name>
+            <name>
+              <surname>Colunga Lozano</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Aloweni</surname>
+              <given-names>FAB</given-names>
+            </name>
+            <name>
+              <surname>Lopes</surname>
+              <given-names>LC</given-names>
+            </name>
+            <name>
+              <surname>Yepes-Nunez</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Fei</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Kahale</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Meyre</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Akl</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Thabane</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Guyatt</surname>
+              <given-names>GH</given-names>
+            </name>
+          </person-group>
+          <article-title>A systematic survey of the methods literature on the reporting quality and optimal methods of handling participants with missing outcome data for continuous outcomes in randomized controlled trials</article-title>
+          <source>J Clin Epidemiol</source>
+          <year>2017</year>
+          <volume>88</volume>
+          <fpage>67</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jclinepi.2017.05.016</pub-id>
+          <pub-id pub-id-type="pmid">28579378</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chu</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Thabane</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Holbrook</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Pullenayegum</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Devereaux</surname>
+              <given-names>PJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparing methods to estimate treatment effects on a continuous outcome in multicentre randomized controlled trials: a simulation study</article-title>
+          <source>BMC Med Res Methodol</source>
+          <year>2011</year>
+          <volume>11</volume>
+          <fpage>21</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2288-11-21</pub-id>
+          <pub-id pub-id-type="pmid">21338524</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thabane</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Mbuagbaw</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Samaan</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Marcucci</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ye</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Thabane</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Giangregorio</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Dennis</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Kosa</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Borg Debono</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Dillenburg</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Fruci</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Bawor</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wells</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Goldsmith</surname>
+              <given-names>CH</given-names>
+            </name>
+          </person-group>
+          <article-title>A tutorial on sensitivity analyses in clinical trials: the what, why, when and how</article-title>
+          <source>BMC Med Res Methodol</source>
+          <year>2013</year>
+          <volume>13</volume>
+          <fpage>92</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2288-13-92</pub-id>
+          <pub-id pub-id-type="pmid">23855337</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lagakos</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Ware</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Hunter</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Drazen</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>Statistics in medicine – reporting of subgroup analyses in clinical trials</article-title>
+          <source>N Engl J Med</source>
+          <year>2007</year>
+          <volume>357</volume>
+          <fpage>2189</fpage>
+          <lpage>2194</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMsr077003</pub-id>
+          <pub-id pub-id-type="pmid">18032770</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Agricola</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Heijboer</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Bierma-Zeinstra</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Verhaar</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Weinans</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Waarsing</surname>
+              <given-names>JH</given-names>
+            </name>
+          </person-group>
+          <article-title>Cam impingement causes osteoarthritis of the hip: a nationwide prospective cohort study (CHECK)</article-title>
+          <source>Ann Rheum Dis</source>
+          <year>2013</year>
+          <volume>72</volume>
+          <issue>6</issue>
+          <fpage>918</fpage>
+          <lpage>923</lpage>
+          <pub-id pub-id-type="doi">10.1136/annrheumdis-2012-201643</pub-id>
+          <pub-id pub-id-type="pmid">22730371</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Agricola</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Waarsing</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>GE</given-names>
+            </name>
+            <name>
+              <surname>Carr</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Reijman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bierma-Zeinstra</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Glyn-Jones</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Weinans</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Arden</surname>
+              <given-names>NK</given-names>
+            </name>
+          </person-group>
+          <article-title>Cam impingement: defining the presence of a cam deformity by the alpha angle: data from the CHECK cohort and Chingford cohort</article-title>
+          <source>Osteoarthr Cartil</source>
+          <year>2014</year>
+          <volume>22</volume>
+          <fpage>218</fpage>
+          <lpage>225</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.joca.2013.11.007</pub-id>
+          <pub-id pub-id-type="pmid">24269636</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Agricola</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Waarsing</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Arden</surname>
+              <given-names>NK</given-names>
+            </name>
+            <name>
+              <surname>Carr</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Bierma-Zeinstra</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>GE</given-names>
+            </name>
+            <name>
+              <surname>Weinans</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Glyn-Jones</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Cam impingement of the hip-a risk factor for hip osteoarthritis</article-title>
+          <source>Nat Rev Rheumatol</source>
+          <year>2013</year>
+          <volume>9</volume>
+          <fpage>630</fpage>
+          <lpage>634</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrrheum.2013.114</pub-id>
+          <pub-id pub-id-type="pmid">23881070</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thomas</surname>
+              <given-names>DD</given-names>
+            </name>
+            <name>
+              <surname>Bernhardson</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>Bernstein</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Dewing</surname>
+              <given-names>CB</given-names>
+            </name>
+          </person-group>
+          <article-title>Hip arthroscopy for femoroacetabular impingement in a military population</article-title>
+          <source>Am J Sports Med</source>
+          <year>2017</year>
+          <volume>45</volume>
+          <issue>14</issue>
+          <fpage>3298</fpage>
+          <lpage>3304</lpage>
+          <pub-id pub-id-type="doi">10.1177/0363546517726984</pub-id>
+          <pub-id pub-id-type="pmid">28937803</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frank</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bush-Joseph</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Salata</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Mather</surname>
+              <given-names>RC</given-names>
+              <suffix>3rd</suffix>
+            </name>
+            <name>
+              <surname>Nho</surname>
+              <given-names>SJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Outcomes for hip arthroscopy according to sex and age: a comparative matched-group analysis</article-title>
+          <source>J Bone Joint Surg Am</source>
+          <year>2016</year>
+          <volume>98</volume>
+          <issue>10</issue>
+          <fpage>797</fpage>
+          <lpage>804</lpage>
+          <pub-id pub-id-type="doi">10.2106/JBJS.15.00445</pub-id>
+          <pub-id pub-id-type="pmid">27194489</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tonnis</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Heinecke</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Current concepts review - acetabular and femoral anteversion: relationship with osteoarthritis of the hip</article-title>
+          <source>J Bone Joint Surg Am</source>
+          <year>1999</year>
+          <volume>81</volume>
+          <fpage>1747</fpage>
+          <lpage>1770</lpage>
+          <pub-id pub-id-type="doi">10.2106/00004623-199912000-00014</pub-id>
+          <pub-id pub-id-type="pmid">10608388</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Horner</surname>
+              <given-names>NS</given-names>
+            </name>
+            <name>
+              <surname>Ekhtiari</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Simunovic</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Safran</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Philippon</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Ayeni</surname>
+              <given-names>OR</given-names>
+            </name>
+          </person-group>
+          <article-title>Hip arthroscopy in patients age 40 or older: a systematic review</article-title>
+          <source>Arthroscopy</source>
+          <year>2017</year>
+          <volume>33</volume>
+          <issue>2</issue>
+          <fpage>464</fpage>
+          <lpage>475</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.arthro.2016.06.044</pub-id>
+          <pub-id pub-id-type="pmid">27625005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Egerton</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hinman</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Takla</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bennell</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>O'Donnell</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Intraoperative cartilage degeneration predicts outcome 12 months after hip arthroscopy</article-title>
+          <source>Clin Orthop Relat Res</source>
+          <year>2013</year>
+          <volume>471</volume>
+          <issue>2</issue>
+          <fpage>593</fpage>
+          <lpage>599</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11999-012-2594-y</pub-id>
+          <pub-id pub-id-type="pmid">22992870</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ayeni</surname>
+              <given-names>OR</given-names>
+            </name>
+            <name>
+              <surname>Adamich</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Farrokhyar</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Simunovic</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Crouch</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Philippon</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Bhandari</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Surgical management of labral tears during femoroacetabular impingement surgery: a systematic review</article-title>
+          <source>Knee Surg Sports Traumatol Arthrosc</source>
+          <year>2014</year>
+          <volume>22</volume>
+          <issue>4</issue>
+          <fpage>756</fpage>
+          <lpage>762</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00167-014-2886-8</pub-id>
+          <pub-id pub-id-type="pmid">24519616</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Briel</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lane</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Montori</surname>
+              <given-names>VM</given-names>
+            </name>
+            <name>
+              <surname>Bassler</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Glasziou</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Malaga</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Akl</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Ferreira-Gonzalez</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Alonso-Coello</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Urrutia</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kunz</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Culebro</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>da Silva</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Flynn</surname>
+              <given-names>DN</given-names>
+            </name>
+            <name>
+              <surname>Elamin</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Strahm</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Murad</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Djulbegovic</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Adhikari</surname>
+              <given-names>NKJ</given-names>
+            </name>
+            <name>
+              <surname>Mills</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>Gwadry-Sridhar</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Kirpalani</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Soares</surname>
+              <given-names>HP</given-names>
+            </name>
+            <name>
+              <surname>Elnour</surname>
+              <given-names>NOA</given-names>
+            </name>
+            <name>
+              <surname>You</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Karanicolas</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Bucher</surname>
+              <given-names>HC</given-names>
+            </name>
+            <name>
+              <surname>Lampropulos</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Nordmann</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Burns</surname>
+              <given-names>KEA</given-names>
+            </name>
+            <name>
+              <surname>Mulla</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Raatz</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Sood</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kaur</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bankhead</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Mullan</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Nerenberg</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Vandvik</surname>
+              <given-names>PO</given-names>
+            </name>
+            <name>
+              <surname>Coto-Yglesias</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Schunemann</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Tuche</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Chrispim</surname>
+              <given-names>PPM</given-names>
+            </name>
+            <name>
+              <surname>Cook</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Lutz</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Ribic</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Vale</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Erwin</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Perera</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Heels-Ansdell</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Ramsay</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Walter</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Guyatt</surname>
+              <given-names>GH</given-names>
+            </name>
+          </person-group>
+          <article-title>Stopping randomized clinical trials early for benefit: a protocol of the study of trial policy of interim truncation-2 (STOPIT-2)</article-title>
+          <source>Trials</source>
+          <year>2009</year>
+          <volume>10</volume>
+          <fpage>49</fpage>
+          <pub-id pub-id-type="doi">10.1186/1745-6215-10-49</pub-id>
+          <pub-id pub-id-type="pmid">19580665</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Montori</surname>
+              <given-names>VM</given-names>
+            </name>
+            <name>
+              <surname>Devereaux</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Adhikari</surname>
+              <given-names>NK</given-names>
+            </name>
+            <name>
+              <surname>Burns</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Eggert</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Briel</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lacchetti</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Leung</surname>
+              <given-names>TW</given-names>
+            </name>
+            <name>
+              <surname>Darling</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Bryant</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Bucher</surname>
+              <given-names>HC</given-names>
+            </name>
+            <name>
+              <surname>Schunemann</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Meade</surname>
+              <given-names>MO</given-names>
+            </name>
+            <name>
+              <surname>Cook</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Erwin</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Sood</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sood</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lo</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Mills</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Guyatt</surname>
+              <given-names>GH</given-names>
+            </name>
+          </person-group>
+          <article-title>Randomized trials stopped early for benefit: a systematic review</article-title>
+          <source>JAMA</source>
+          <year>2005</year>
+          <volume>294</volume>
+          <fpage>2203</fpage>
+          <lpage>2209</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.294.17.2203</pub-id>
+          <pub-id pub-id-type="pmid">16264162</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

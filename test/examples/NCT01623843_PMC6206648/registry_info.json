@@ -1,0 +1,202 @@
+{
+    "Rank": 1,
+    "StartDate": [
+        "September 2012"
+    ],
+    "StartDateType": [
+        "Actual"
+    ],
+    "PrimaryCompletionDate": [
+        "December 2019"
+    ],
+    "PrimaryCompletionDateType": [
+        "Actual"
+    ],
+    "CompletionDate": [
+        "March 2020"
+    ],
+    "StudyFirstPostDate": [
+        "June 20, 2012"
+    ],
+    "StudyFirstPostDateType": [
+        "Estimate"
+    ],
+    "StudyFirstSubmitDate": [
+        "June 17, 2012"
+    ],
+    "StudyFirstSubmitQCDate": [
+        "June 19, 2012"
+    ],
+    "ReferencePMID": [
+        "14646708",
+        "19341926",
+        "17420508",
+        "18442686",
+        "20489213",
+        "21266277",
+        "19028166",
+        "18984718",
+        "17515374",
+        "20410801",
+        "12043778",
+        "8628042",
+        "12579003",
+        "19666629",
+        "21035994",
+        "35400136",
+        "32970955",
+        "30373659",
+        "25886958"
+    ],
+    "ReferenceCitation": [
+        "Ganz R, Parvizi J, Beck M, Leunig M, Notzli H, Siebenrock KA. Femoroacetabular impingement: a cause for osteoarthritis of the hip. Clin Orthop Relat Res. 2003 Dec;(417):112-20. doi: 10.1097/01.blo.0000096804.78689.c2.",
+        "Lincoln M, Johnston K, Muldoon M, Santore R. Combined arthroscopic and modified open approach for cam femoroacetabular impingement: a preliminary experience. Arthroscopy. 2009 Apr;25(4):392-9. doi: 10.1016/j.arthro.2008.12.002.",
+        "Philippon MJ, Stubbs AJ, Schenker ML, Maxwell RB, Ganz R, Leunig M. Arthroscopic management of femoroacetabular impingement: osteoplasty technique and literature review. Am J Sports Med. 2007 Sep;35(9):1571-80. doi: 10.1177/0363546507300258. Epub 2007 Apr 9.",
+        "Larson CM, Giveans MR. Arthroscopic management of femoroacetabular impingement: early outcomes measures. Arthroscopy. 2008 May;24(5):540-6. doi: 10.1016/j.arthro.2007.11.007. Epub 2008 Jan 7.",
+        "Ng VY, Arora N, Best TM, Pan X, Ellis TJ. Efficacy of surgery for femoroacetabular impingement: a systematic review. Am J Sports Med. 2010 Nov;38(11):2337-45. doi: 10.1177/0363546510365530. Epub 2010 May 20.",
+        "Botser IB, Smith TW Jr, Nasser R, Domb BG. Open surgical dislocation versus arthroscopy for femoroacetabular impingement: a comparison of clinical outcomes. Arthroscopy. 2011 Feb;27(2):270-8. doi: 10.1016/j.arthro.2010.11.008.",
+        "Bedi A, Chen N, Robertson W, Kelly BT. The management of labral tears and femoroacetabular impingement of the hip in the young, active patient. Arthroscopy. 2008 Oct;24(10):1135-45. doi: 10.1016/j.arthro.2008.06.001.",
+        "Clohisy JC, Carlisle JC, Beaule PE, Kim YJ, Trousdale RT, Sierra RJ, Leunig M, Schoenecker PL, Millis MB. A systematic approach to the plain radiographic evaluation of the young adult hip. J Bone Joint Surg Am. 2008 Nov;90 Suppl 4(Suppl 4):47-66. doi: 10.2106/JBJS.H.00756. No abstract available.",
+        "Tannast M, Siebenrock KA, Anderson SE. Femoroacetabular impingement: radiographic diagnosis--what the radiologist should know. AJR Am J Roentgenol. 2007 Jun;188(6):1540-52. doi: 10.2214/AJR.06.0921.",
+        "Anderson SE, Siebenrock KA, Mamisch TC, Tannast M. Femoroacetabular impingement magnetic resonance imaging. Top Magn Reson Imaging. 2009 Jun;20(3):123-8. doi: 10.1097/RMR.0b013e3181d99459.",
+        "Notzli HP, Wyss TF, Stoecklin CH, Schmid MR, Treiber K, Hodler J. The contour of the femoral head-neck junction as a predictor for the risk of anterior impingement. J Bone Joint Surg Br. 2002 May;84(4):556-60. doi: 10.1302/0301-620x.84b4.12014.",
+        "Ware J Jr, Kosinski M, Keller SD. A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity. Med Care. 1996 Mar;34(3):220-33. doi: 10.1097/00005650-199603000-00003.",
+        "Christensen CP, Althausen PL, Mittleman MA, Lee JA, McCarthy JC. The nonarthritic hip score: reliable and validated. Clin Orthop Relat Res. 2003 Jan;(406):75-83. doi: 10.1097/01.blo.0000043047.84315.4b.",
+        "Schenker ML, Martin R, Weiland DE, Philippon MJ. Current trends in hip arthroscopy: a review of injury diagnosis, techniques and outcome scoring. Current opinion in orthopeadics.2005;16:89-94.",
+        "Thorborg K, Roos EM, Bartels EM, Petersen J, Holmich P. Validity, reliability and responsiveness of patient-reported outcome questionnaires when assessing hip and groin disability: a systematic review. Br J Sports Med. 2010 Dec;44(16):1186-96. doi: 10.1136/bjsm.2009.060889. Epub 2009 Aug 6.",
+        "Lodhia P, Slobogean GP, Noonan VK, Gilbart MK. Patient-reported outcome instruments for femoroacetabular impingement and hip labral pathology: a systematic review of the clinimetric evidence. Arthroscopy. 2011 Feb;27(2):279-86. doi: 10.1016/j.arthro.2010.08.002. Epub 2010 Oct 29.",
+        "Kay J, Simunovic N, Ayeni OR; FIRST Investigators; Bhandari M, Bedi A, Jarvinen T, Musahl V, Naudie D, Seppanen M, Slobogean G, Thabane L, Duong A, Skelly M, Shanmugaraj A, Crouch S, Sprague S, Heels-Ansdell D, Buckingham L, Ramsay T, Lee J, Kousa P, Carsen S, Choudur H, Sim Y, Johnston K, Wong I, Murphy R, Sparavalo S, Whelan D, Khan R, Wood GCA, Howells F, Grant H, Zomar B, Pollock M, Willits K, Firth A, Wanlin S, Remtulla A, Kaniki N, Belzile EL, Turmel S, Jorgensen U, Gam-Pedersen A, Sihvonen R, Raivio Sihvonen M, Toivonen Sihvonen P, Pirjetta Routapohja M. Effect of Osteochondroplasty on Time to Reoperation After Arthroscopic Management of Femoroacetabular Impingement: Analysis of a Randomized Controlled Trial. Orthop J Sports Med. 2022 Apr 5;10(4):23259671211041400. doi: 10.1177/23259671211041400. eCollection 2022 Apr.",
+        "Femoroacetabular Impingement Randomized Controlled Trial (FIRST) Investigators; Ayeni OR, Karlsson J, Heels-Ansdell D, Thabane L, Musahl V, Simunovic N, Duong A, Bhandari M, Bedi A, Jarvinen T, Naudie D, Seppanen M, Slobogean G, Skelly M, Shanmugaraj A, Crouch S, Sprague S, Buckingham L, Ramsay T, Lee J, Kousa P, Carsen S, Choudur H, Sim Y, Johnston K, Sprague S, Wong I, Murphy R, Sparavalo S, Whelan D, Khan R, Wood GCA, Howells F, Grant H, Naudie D, Zomar B, Pollock M, Willits K, Firth A, Wanlin S, Remtulla A, Kaniki N, Belzile EL, Turmel S, Jorgensen U, Gam-Pedersen A, Hatanpaa T, Sihvonen R, Raivio M, Toivonen P, Routapohja MP. Osteochondroplasty and Labral Repair for the Treatment of Young Adults With Femoroacetabular Impingement: A Randomized Controlled Trial. Am J Sports Med. 2021 Jan;49(1):25-34. doi: 10.1177/0363546520952804. Epub 2020 Sep 24.",
+        "Simunovic N, Heels-Ansdell D, Thabane L, Ayeni OR; FIRST Investigators. Femoroacetabular Impingement Randomised controlled Trial (FIRST) - a multi-centre randomized controlled trial comparing arthroscopic lavage and arthroscopic osteochondroplasty on patient important outcomes and quality of life in the treatment of young adult (18-50 years) femoroacetabular impingement: a statistical analysis plan. Trials. 2018 Oct 29;19(1):588. doi: 10.1186/s13063-018-2965-0.",
+        "FIRST Investigators. A multi-centre randomized controlled trial comparing arthroscopic osteochondroplasty and lavage with arthroscopic lavage alone on patient important outcomes and quality of life in the treatment of young adult (18-50) femoroacetabular impingement. BMC Musculoskelet Disord. 2015 Mar 20;16:64. doi: 10.1186/s12891-015-0500-y."
+    ],
+    "ReferenceType": [
+        "background",
+        "background",
+        "background",
+        "background",
+        "background",
+        "background",
+        "background",
+        "background",
+        "background",
+        "background",
+        "background",
+        "background",
+        "background",
+        "background",
+        "background",
+        "background",
+        "derived",
+        "derived",
+        "derived",
+        "derived"
+    ],
+    "outcomes": [
+        {
+            "type": "primary",
+            "text": "Pain (measured using a Visual Analog Scale)",
+            "is_current": true,
+            "description": "The VAS is one of the most frequently used pain rating scales in clinical practice and research. The VAS is a validated unidimensional scale that is easy to use, requires no verbal or reading skills, and is sufficiently versatile to be employed in a variety of settings. The VAS will be administered during routine follow up visits at baseline, 2 weeks, 6 weeks, 3 months, 6 months, and 12 months.",
+            "time_frame": "12 months",
+            "submission_date": "2014-04-22"
+        },
+        {
+            "type": "primary",
+            "text": "Feasibility of definitive trial",
+            "is_current": false,
+            "description": "Complete patient recruitment by 1 year, 100 % patient follow up at 1 year and study completion by 2 years, documentation of compliance with protocol and finalization of data capture manual and system for definitive RCT",
+            "time_frame": "2 years",
+            "submission_date": "2012-06-19"
+        },
+        {
+            "type": "secondary",
+            "text": "Function (measured using the Hip Outcome Score)",
+            "is_current": true,
+            "description": "The HOS is a self-administered hip score that was designed to capture hip function and outcomes following surgical therapies such as arthroscopy. The HOS has been shown to have the greatest clinimetric evidence for use in patients with FAI or labral tears.",
+            "time_frame": "12 months",
+            "submission_date": "2017-06-06"
+        },
+        {
+            "type": "secondary",
+            "text": "Health-related quality of life (measured using the Short-Form 12)",
+            "is_current": true,
+            "description": "The SF-12 may be self or interview-administered and will help document general health status as well as the burden of illness that FAI presents.",
+            "time_frame": "12 months",
+            "submission_date": "2017-06-06"
+        },
+        {
+            "type": "secondary",
+            "text": "Function and lifestyle (measured using the International Hip Outcome Tool)",
+            "is_current": true,
+            "description": "The iHOT-12 is a shorter version of the iHOT-33 designed to be easier to complete in routine clinical practice to measure both health-related quality of life and changes after treatment in young, active patients with hip disorders. This questionnaire has been shown to be valid, reliable, and responsive to change.",
+            "time_frame": "12 months",
+            "submission_date": "2017-06-06"
+        },
+        {
+            "type": "secondary",
+            "text": "Health utility (measured using the Euro-Quol 5 Dimensions)",
+            "is_current": true,
+            "description": "The EQ-5D is a standardized instrument for use as a measure of health outcome. The EQ-5D comprises five dimensions of health (mobility, self-care, usual activities, pain/discomfort, and anxiety/depression). The EQ-5D has been used in previous studies involving patients with hip pain and has been extensively validated. Our decision to the use EQ-5D was based upon our interest in collecting health utility data for a formal economic analysis.",
+            "time_frame": "12 months",
+            "submission_date": "2017-06-06"
+        },
+        {
+            "type": "secondary",
+            "text": "Urinary function (measured using the Male/Female Lower Urinary Tract Symptoms questionnaires)",
+            "is_current": true,
+            "description": "The two validated questionnaires selected that pertain to male and female urinary symptoms are gender specific variations of the International Consultation on Continence Questionnaire (ICIQ). The ICIQ-MLUTS (male) and ICIQ-FLUTS (female). These are validated patient-completed questionnaires, which evaluate male and female lower urinary tract symptoms (LUTS), as well as quality of life. Both questionnaires have demonstrated validity, reliability and responsiveness internally and externally.",
+            "time_frame": "12 months",
+            "submission_date": "2017-06-06"
+        },
+        {
+            "type": "secondary",
+            "text": "Sexual function (measured using the International Index of Erectile Dysfunction and the Female Sexual Function Index)",
+            "is_current": true,
+            "description": "The FSFI is a brief psychometrically sound and reliable tool that assesses female sexual function, and has proven ability to discriminate between clinical and nonclinical populations.The FSFI is also designed to measure the impact on quality of life. The IIEF is a brief self-administered questionnaire assessing sexual experience within the previous 4 weeks, consisting of 15 questions designed to address 5 relevant aspects of male sexual function, specifically erectile function, sexual desire, orgasmic function, intercourse satisfaction and overall satisfaction. This instrument is psychometrically sound with high sensitivity and specificity, which has been validated for administration in research and clinical settings, and across cultures with linguistically validated versions.",
+            "time_frame": "12 months",
+            "submission_date": "2017-06-06"
+        },
+        {
+            "type": "secondary",
+            "text": "Complications / Adverse events",
+            "is_current": true,
+            "description": "Includes additional surgery, infection, reduced range of motion, and other adverse events",
+            "time_frame": "12 and 24 months",
+            "submission_date": "2017-06-06"
+        },
+        {
+            "type": "secondary",
+            "text": "Change in pain scores at 6 months using visual rating scale",
+            "is_current": false,
+            "description": "",
+            "time_frame": "6 months",
+            "submission_date": "2012-06-19"
+        },
+        {
+            "type": "secondary",
+            "text": "Change in Heath Status and Function using SF-12, NAHS and HOS questionnaires",
+            "is_current": false,
+            "description": "",
+            "time_frame": "1 year",
+            "submission_date": "2012-06-19"
+        },
+        {
+            "type": "other",
+            "text": "Not Provided",
+            "is_current": true,
+            "description": "",
+            "time_frame": "",
+            "submission_date": ""
+        },
+        {
+            "type": "other",
+            "text": "Not Provided",
+            "is_current": false,
+            "description": "",
+            "time_frame": "",
+            "submission_date": ""
+        }
+    ],
+    "is_prim_outcome_switch": "text description time_frame"
+}

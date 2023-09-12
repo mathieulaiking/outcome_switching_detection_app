@@ -1,0 +1,556 @@
+{
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04412252",
+        "orgStudyIdInfo": {
+          "id": "A3921377"
+        },
+        "organization": {
+          "fullName": "Pfizer",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "Safety and Efficacy of Tofacitinib in Hospitalized Participants With COVID-19 Pneumonia Who Are Receiving Standard of Care Therapy",
+        "officialTitle": "A MULTICENTER, RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED, PARALLEL GROUP STUDY ASSESSING THE SAFETY AND EFFICACY OF TOFACITINIB IN HOSPITALIZED PARTICIPANTS WITH COVID-19 PNEUMONIA WHO ARE RECEIVING STANDARD OF CARE THERAPY"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2020-07",
+        "overallStatus": "WITHDRAWN",
+        "whyStopped": "Due to the pursuit of other SARS-CoV-2-related research including alternative trials with tofacitinib, this trial was canceled prior to subject enrollment.",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2020-07-06",
+          "type": "ESTIMATED"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2020-09-16",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2020-10-18",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2020-05-30",
+        "studyFirstSubmitQcDate": "2020-05-30",
+        "studyFirstPostDateStruct": {
+          "date": "2020-06-02",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2020-07-29",
+        "lastUpdatePostDateStruct": {
+          "date": "2020-07-31",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Pfizer",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The study is designed as a multicenter, randomized, double-blind, placebo-controlled, parallel group study of the safety and efficacy of tofacitinib in hospitalized adult participants with COVID-19 pneumonia who are receiving SoC therapy and who are not on HFNC, noninvasive ventilation, invasive mechanical ventilation, or ECMO on Day 1 at the time of randomization.\n\nParticipants with laboratory confirmed SARS-CoV-2 infection as determined by a positive PCR or other commercially available or public health assay, who have agreed to participate will be screened within 48 hours after hospitalization to determine eligibility. This should be completed within 48 hours prior to Day 1.\n\nEligible participants will be randomized on Day 1 in a 1:1 ratio to the tofacitinib treatment group or the placebo treatment group and will receive treatment for up to 14 days, or until discharge from the hospital, whichever is earlier. If a participant requires intubation prior to the end of the 14-day treatment period, they will continue to receive tofacitinib or matching placebo until Day 14 (or until discharge from the hospital, if earlier than Day 14), if clinically appropriate.\n\nParticipants will be assessed daily (up to Day 28) while hospitalized for clinical, safety, and laboratory parameters. Follow-up visits will occur on Day 28, 28 to 35 days after the ET/ED/EOT visit, and on Day 60.\n\nAn independent, external DSMB will be convened to oversee the safety of participants and make recommendations regarding the conduct of the trial in accordance with the Charter."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "COVID-19"
+        ],
+        "keywords": [
+          "COVID-19",
+          "Pneumonia",
+          "SARS-CoV-2",
+          "Novel Coronavirus"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "DOUBLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "INVESTIGATOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 0,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Tofacitinib",
+            "type": "EXPERIMENTAL",
+            "description": "Participants will receive tofacitinib 10 mg twice per day for 14 days and standard of care therapy.",
+            "interventionNames": [
+              "Drug: Tofacitinib"
+            ]
+          },
+          {
+            "label": "Placebo",
+            "type": "PLACEBO_COMPARATOR",
+            "description": "Participants will receive tofacitinib-matching placebo twice per day for 14 days and standard of care therapy.",
+            "interventionNames": [
+              "Other: Placebo"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Tofacitinib",
+            "interventionMappedName": [],
+            "description": "10 mg tofacitinib administered as two 5 mg tablets or solution taken orally twice daily for 14 days",
+            "armGroupLabels": [
+              "Tofacitinib"
+            ],
+            "otherNames": [
+              "xeljanz"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "Placebo",
+            "description": "Tofacitinib-matching placebo administered as tablets or solution taken orally twice daily for 14 days",
+            "armGroupLabels": [
+              "Placebo"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Clinical status using ordinal scale",
+            "description": "Death or respiratory failure (1, 2, or 3, on an 8-point ordinal scale of disease severity) at Day 28. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise); 6) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 7) Not hospitalized, limitation on activities and/or requiring home oxygen; 8) Not hospitalized, no limitations on activities.",
+            "timeFrame": "Day 28"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Clinical status using ordinal scale",
+            "description": "Ordinal scale of disease severity. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise); 6) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 7) Not hospitalized, limitation on activities and/or requiring home oxygen; 8) Not hospitalized, no limitations on activities.",
+            "timeFrame": "Day 14"
+          },
+          {
+            "measure": "Status of alive and not using mechanical ventilation or extracorporeal membrane oxygenation (ECMO)",
+            "description": "Category 3 to 8 on an ordinal scale of disease severity. The scale is as follows: 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise); 6) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 7) Not hospitalized, limitation on activities and/or requiring home oxygen; 8) Not hospitalized, no limitations on activities.",
+            "timeFrame": "Day 14 and Day 28"
+          },
+          {
+            "measure": "Status of discharged or not requiring supplemental oxygen",
+            "description": "Category 5 to 8 on an ordinal scale of disease severity. The scale is as follows: 5) Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise); 6) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 7) Not hospitalized, limitation on activities and/or requiring home oxygen; 8) Not hospitalized, no limitations on activities.",
+            "timeFrame": "Day 28"
+          },
+          {
+            "measure": "Mortality",
+            "description": "Category 1 on an ordinal scale of disease severity. The scale is as follows: 1) Death.",
+            "timeFrame": "Day 60"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female between 18 and 65 years. A female is eligible if she is not pregnant or breastfeeding. WOCBP must use 2 highly effective forms of contraception.\n* Participants with laboratory-confirmed novel coronavirus (SARS-CoV-2) infection prior to Day 1.\n* Participants with evidence of COVID-19 pneumonia assessed by radiographic imaging (chest x ray or chest CT scan).\n\nExclusion Criteria:\n\n* Require HFNC, non-invasive ventilation, invasive mechanical ventilation, or ECMO on Day 1 at the time of randomization.\n* Have history of or current thrombosis. Only if current thrombosis is suspected, imaging testing is recommended (e.g. CTPA or per local guidance) to exclude thrombosis.\n* Have a personal or first degree family history of blood clotting disorders.\n* Participants who are immunocompromised, with known immunodeficiencies, or taking potent immunosuppressive agents (e.g. azathioprine, cyclosporine).\n* Participants with any current malignancy or lymphoproliferative disorders that requires active treatment.\n* Suspected or known active systemic bacterial, fungal, or viral infections (with the exception of COVID-19).\n* Severe hepatic impairment, defined as Child-Pugh class C.\n* Severe anemia (hemoglobin \\< 8 g/dL)\n* ANY of the following abnormalities in clinical lab tests at screening, confirmed by a single repeat, if deemed necessary: ALC \\< 500 cells/mm3, ANC \\< 1000 cells/mm3\n* Known allergy to tofacitinib",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "99 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Pfizer CT.gov Call Center",
+            "affiliation": "Pfizer",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Hartford Hospital (HH)",
+            "city": "Hartford",
+            "state": "Connecticut",
+            "zip": "06102",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.76371,
+              "lon": -72.68509
+            }
+          },
+          {
+            "facility": "University of Iowa Hospitals & Clinics Investigational Drug Services",
+            "city": "Iowa City",
+            "state": "Iowa",
+            "zip": "52242",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.66113,
+              "lon": -91.53017
+            }
+          },
+          {
+            "facility": "University of Iowa",
+            "city": "Iowa City",
+            "state": "Iowa",
+            "zip": "52242",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.66113,
+              "lon": -91.53017
+            }
+          },
+          {
+            "facility": "LSUHSC-Shreveport",
+            "city": "Shreveport",
+            "state": "Louisiana",
+            "zip": "71103",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.52515,
+              "lon": -93.75018
+            }
+          },
+          {
+            "facility": "Ochsner LSU Health Shreveport Academic Medical Center",
+            "city": "Shreveport",
+            "state": "Louisiana",
+            "zip": "71103",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.52515,
+              "lon": -93.75018
+            }
+          },
+          {
+            "facility": "University Hospitals Cleveland Medical Center",
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44106",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.4995,
+              "lon": -81.69541
+            }
+          }
+        ],
+        "locations_nested": [
+          {
+            "facility": "Hartford Hospital (HH)",
+            "city": "Hartford",
+            "state": "Connecticut",
+            "zip": "06102",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.76371,
+              "lon": -72.68509
+            }
+          },
+          {
+            "facility": "University of Iowa Hospitals & Clinics Investigational Drug Services",
+            "city": "Iowa City",
+            "state": "Iowa",
+            "zip": "52242",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.66113,
+              "lon": -91.53017
+            }
+          },
+          {
+            "facility": "University of Iowa",
+            "city": "Iowa City",
+            "state": "Iowa",
+            "zip": "52242",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.66113,
+              "lon": -91.53017
+            }
+          },
+          {
+            "facility": "LSUHSC-Shreveport",
+            "city": "Shreveport",
+            "state": "Louisiana",
+            "zip": "71103",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.52515,
+              "lon": -93.75018
+            }
+          },
+          {
+            "facility": "Ochsner LSU Health Shreveport Academic Medical Center",
+            "city": "Shreveport",
+            "state": "Louisiana",
+            "zip": "71103",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.52515,
+              "lon": -93.75018
+            }
+          },
+          {
+            "facility": "University Hospitals Cleveland Medical Center",
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44106",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.4995,
+              "lon": -81.69541
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "seeAlsoLinks": [
+          {
+            "label": "To obtain contact information for a study center near you, click here.",
+            "url": "https://pmiform.com/clinical-trial-info-request?StudyID=A3921377"
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "YES",
+        "description": "Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.",
+        "url": "https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2023-09-11",
+        "modelPredictions": {
+          "bmiLimits": {
+            "minBmi": 0,
+            "maxBmi": 101
+          }
+        }
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000086382",
+            "term": "COVID-19"
+          },
+          {
+            "id": "D000011014",
+            "term": "Pneumonia"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D000011024",
+            "term": "Pneumonia, Viral"
+          },
+          {
+            "id": "D000012141",
+            "term": "Respiratory Tract Infections"
+          },
+          {
+            "id": "D000007239",
+            "term": "Infections"
+          },
+          {
+            "id": "D000014777",
+            "term": "Virus Diseases"
+          },
+          {
+            "id": "D000018352",
+            "term": "Coronavirus Infections"
+          },
+          {
+            "id": "D000003333",
+            "term": "Coronaviridae Infections"
+          },
+          {
+            "id": "D000030341",
+            "term": "Nidovirales Infections"
+          },
+          {
+            "id": "D000012327",
+            "term": "RNA Virus Infections"
+          },
+          {
+            "id": "D000008171",
+            "term": "Lung Diseases"
+          },
+          {
+            "id": "D000012140",
+            "term": "Respiratory Tract Diseases"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M2562",
+            "name": "COVID-19",
+            "asFound": "COVID-19",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M13594",
+            "name": "Pneumonia",
+            "asFound": "Pneumonia",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M20180",
+            "name": "Coronavirus Infections",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M13604",
+            "name": "Pneumonia, Viral",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M6058",
+            "name": "Communicable Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M9973",
+            "name": "Infections",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M14668",
+            "name": "Respiratory Tract Infections",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M17212",
+            "name": "Virus Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M6245",
+            "name": "Coronaviridae Infections",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M23375",
+            "name": "Nidovirales Infections",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M14839",
+            "name": "RNA Virus Infections",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M10858",
+            "name": "Lung Diseases",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M14667",
+            "name": "Respiratory Tract Diseases",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "BC01",
+            "name": "Infections"
+          },
+          {
+            "abbrev": "BC08",
+            "name": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Conditions"
+          },
+          {
+            "abbrev": "BC23",
+            "name": "Symptoms and General Pathology"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C000479163",
+            "term": "Tofacitinib"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D000075242",
+            "term": "Janus Kinase Inhibitors"
+          },
+          {
+            "id": "D000047428",
+            "term": "Protein Kinase Inhibitors"
+          },
+          {
+            "id": "D000004791",
+            "term": "Enzyme Inhibitors"
+          },
+          {
+            "id": "D000045504",
+            "term": "Molecular Mechanisms of Pharmacological Action"
+          }
+        ],
+        "browseLeaves": [
+          {
+            "id": "M21550",
+            "name": "Pharmaceutical Solutions",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M257987",
+            "name": "Tofacitinib",
+            "asFound": "AMG",
+            "relevance": "HIGH"
+          },
+          {
+            "id": "M1474",
+            "name": "Janus Kinase Inhibitors",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M25510",
+            "name": "Protein Kinase Inhibitors",
+            "relevance": "LOW"
+          },
+          {
+            "id": "M7641",
+            "name": "Enzyme Inhibitors",
+            "relevance": "LOW"
+          }
+        ],
+        "browseBranches": [
+          {
+            "abbrev": "PhSol",
+            "name": "Pharmaceutical Solutions"
+          },
+          {
+            "abbrev": "All",
+            "name": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  }

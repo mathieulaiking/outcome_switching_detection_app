@@ -1,0 +1,7 @@
+torch
+transformers
+gradio
+sentence-transformers
+plotly
+bs4
+lxml 
