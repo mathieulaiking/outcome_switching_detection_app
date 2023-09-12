@@ -5,7 +5,7 @@ from typing import List, Dict, Any, Tuple, Union
 def get_highlighted_text(entities:List[Dict[str,Any]], original_text:str) -> List[Tuple[str,Union[str,None]]] :
     """Convert the output of the model to a list of tuples (entity, label)
     for `gradio.HighlightedText`output"""
-    conversion = {"Prim":"primary","Sec":"secondary"}
+    conversion = {"PrimaryOutcome":"primary","SecondaryOutcome":"secondary"}
     highlighted_text = []
     for entity in entities:
         entity_original_text = original_text[entity["start"]:entity["end"]]

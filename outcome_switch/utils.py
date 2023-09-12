@@ -26,9 +26,9 @@ def filter_outcomes(entities: List[Dict[str, Any]]) -> List[Tuple[str,str]]:
     for entity in entities:
         if entity["entity_group"] == "O":
             continue
-        elif entity["entity_group"] == "Prim" :
+        elif entity["entity_group"] == "PrimaryOutcome" :
             outcomes.append(("primary", entity["word"]))
-        elif entity["entity_group"] == "Sec":
+        elif entity["entity_group"] == "SecondaryOutcome":
             outcomes.append(("secondary", entity["word"]))
     return outcomes
 
